@@ -1,4 +1,4 @@
-package com.surya_spring.example.controller.service;
+/*package com.surya_spring.example.controller.service;
 
 import javax.jws.soap.SOAPBinding;
 
@@ -24,3 +24,4 @@ public class WeatherRESTController {
 	}
 
 }
+*/

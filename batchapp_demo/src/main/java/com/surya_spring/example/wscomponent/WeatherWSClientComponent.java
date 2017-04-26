@@ -1,4 +1,4 @@
-package com.surya_spring.example.wscomponent;
+/*package com.surya_spring.example.wscomponent;
 
 import org.springframework.stereotype.Service;
 
@@ -14,3 +14,4 @@ public class WeatherWSClientComponent {
 	}
 
 }
+*/
