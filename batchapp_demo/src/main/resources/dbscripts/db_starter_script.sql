@@ -10,6 +10,8 @@ select * from user_data;
 
 ALTER TABLE user_data MODIFY COLUMN user_id INT(20) AUTO_INCREMENT;
 
+ALTER TABLE user_data ADD COLUMN user_id(5) DEFAULT 22;
+
 --Creating Address table
 create table user_address(
   addr_id  int(20) primary key,
